@@ -22,7 +22,7 @@ ORDER BY score DESC;
 
 ## How to set up Neo4j (GUI)
 1) Install Neo4j Desktop, create DBMS 5.x, password `codex`, start it.
-2) Click Open Browser (http://localhost:7474), login neo4j/codex.
+2) Click Open Browser (http://localhost:7474), login neo4j/codexcodex.
 3) Run:
    :use neo4j
    (paste contents of neo4j/seed.cypher)
